@@ -78,4 +78,6 @@ save_name = "result"
 box_plot_function(data, labels, xlabel, ylabel, save_name)
 ```
 
+.pyファイルと同じディレクトリに`result.png`が出力されたら成功。
+
 
