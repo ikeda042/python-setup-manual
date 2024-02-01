@@ -35,7 +35,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 ```
 
-1. 試しに３つのモジュールをインストールする。
+3. 試しに３つのモジュールをインストールする。
 ```bash
 pip install matplotlib seaborn numpy
 ```
