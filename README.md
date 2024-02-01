@@ -3,7 +3,7 @@
    
 <a>https://code.visualstudio.com/download</a>
    
-1. Pythonをダウンロード
+2. Pythonをダウンロード
    
 <a>https://www.python.org/downloads/</a>
 
@@ -13,11 +13,11 @@
 
 </div>
 
-1. Pythonのダウンロードが完了したら、インストール時に"ADD PYTHON to PATH" にチェックを入れる。
+3. Pythonのダウンロードが完了したら、インストール時に"ADD PYTHON to PATH" にチェックを入れる。
    
-2. VSCODEの拡張機能 "Python"をインストールする。
+4. VSCODEの拡張機能 "Python"をインストールする。
    
-3. vecodeで拡張子.pyの新規ファイルを作成して、以下のようにコードを書き右上の三角ボタンを押すとターミナルに文字が出力される。（これができれば成功）
+5. vecodeで拡張子.pyの新規ファイルを作成して、以下のようにコードを書き右上の三角ボタンを押すとターミナルに文字が出力される。（これができれば成功）
    
 <div align="center">
 
